@@ -1,0 +1,103 @@
+/* Imports */
+
+@font-face {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Gotham'), url('https://fonts.cdnfonts.com/s/14898/GothamBook.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Gotham';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Gotham'), url('https://fonts.cdnfonts.com/s/14898/GothamBookItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Gotham'), url('https://fonts.cdnfonts.com/s/14898/GothamBold.woff') format('woff');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Page properties */
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* Default styles of generic elements */
+
+h2 {
+    @apply text-left text-3xl m-2 mt-12 font-bold;
+}
+
+main > .section:first-child h2 {
+    @apply mt-0 pt-2;
+}
+
+h3 {
+    @apply text-left text-xl m-1 ml-4 font-bold;
+}
+
+p, .line-block, .logo {
+    @apply m-6;
+}
+
+svg {
+    @apply w-full h-auto;
+}
+
+/* Vimeo embeds */
+
+.vimeo {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.vimeo iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+/* Address block */
+
+.address {
+    @apply border-dotted border-4 border-black text-left m-2 mx-4 p-2;
+}
+
+.address p, .address .line-block {
+    @apply m-1;
+}
+
+
+/* Logos */
+
+.logo {
+    @apply mx-auto;
+}
+
+
+/* Inline SVG figures */
+
+svg a circle {
+    @apply animate-pulse;
+    transition: fill-opacity 150ms;
+}
+
+svg a:hover circle, svg a:focus circle {
+    @apply animate-none;
+    fill-opacity: 0.8 !important;
+}

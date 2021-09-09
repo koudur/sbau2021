@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block lang %}
+  {{ page.lang }}
+{% endblock %}
+
+{% block title %}
+  {{ super() }} - {{ page.title }}
+{% endblock %}
+
+{% block body %}
+  {{ page.content }}
+
+  <ul class="absolute top-0 right-0">
+    {% for translation in page.translations %}
+      <li>
+        <a class="text-lg font-medium text-black m-2" href="{{ SITEURL }}{{ translation.url }}">
+          &gt;  {{ LANGUAGES[translation.lang] }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endblock %}
