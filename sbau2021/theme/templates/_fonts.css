@@ -1,23 +1,29 @@
 @font-face {
-    font-family: Gotham;
+    font-family: 'gotham';
     font-style: normal;
     font-weight: 400;
-    src: url("{{ SITEURL }}/theme/fnt/GothamBook.woff") format("woff"),
-         url("{{ SITEURL }}/theme/fnt/GothamBook.ttf")  format("truetype");
+    src: url("{{ SITEURL }}/theme/fnt/GothamBook.woff2") format("woff2"),
+         url("{{ SITEURL }}/theme/fnt/GothamBook.woff") format("woff"),
+         url("{{ SITEURL }}/theme/fnt/GothamBook.ttf") format("truetype"),
+         url("{{ SITEURL }}/theme/fnt/GothamBook.svg#gothambook")  format("svg");
 }
 
 @font-face {
-    font-family: Gotham;
+    font-family: 'gotham';
     font-style: normal;
     font-weight: 700;
-    src: url("{{ SITEURL }}/theme/fnt/GothamBold.woff") format("woff"),
-         url("{{ SITEURL }}/theme/fnt/GothamBold.ttf")  format("truetype");
+    src: url("{{ SITEURL }}/theme/fnt/GothamBold.woff2") format("woff2"),
+         url("{{ SITEURL }}/theme/fnt/GothamBold.woff") format("woff"),
+         url("{{ SITEURL }}/theme/fnt/GothamBold.ttf") format("truetype"),
+         url("{{ SITEURL }}/theme/fnt/GothamBold.svg#gothambold") format("svg");
 }
 
 @font-face {
-    font-family: Gotham;
+    font-family: 'gotham';
     font-style: italic;
     font-weight: 400;
-    src: url("{{ SITEURL }}/theme/fnt/GothamBookItalic.woff") format("woff"),
-         url("{{ SITEURL }}/theme/fnt/GothamBookItalic.ttf")  format("truetype");
+    src: url("{{ SITEURL }}/theme/fnt/GothamBookItalic.woff2") format("woff2"),
+         url("{{ SITEURL }}/theme/fnt/GothamBookItalic.woff") format("woff"),
+         url("{{ SITEURL }}/theme/fnt/GothamBookItalic.ttf") format("truetype"),
+         url("{{ SITEURL }}/theme/fnt/GothamBookItalic.svg#gothambookitalic") format("svg");
 }
