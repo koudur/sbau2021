@@ -1,5 +1,5 @@
-Index
-#####
+Home
+####
 
 :slug: index
 :lang: ko

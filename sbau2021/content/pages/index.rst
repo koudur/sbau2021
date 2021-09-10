@@ -1,5 +1,5 @@
-Index
-#####
+Home
+####
 
 :slug: index
 :lang: en
@@ -181,7 +181,7 @@ Alain's contact
   **RULES:** Before sending seeds, send an e-mail detailing your
   parcel.
   
-  **MAIL:**
+  **MAIL:** arariwakuna.tipon@gmail.com
   
   | **ADDRESS:**
   | Sr. Mario Flórez (Alain Dlugosz)
