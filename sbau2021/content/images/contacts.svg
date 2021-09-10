@@ -1,0 +1,130 @@
+<svg
+   width="960"
+   height="300"
+   viewBox="0 0 253.99999 79.375001"
+   version="1.1"
+   id="svg827"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="contacts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:zoom="0.70199214"
+     inkscape:cx="245.72925"
+     inkscape:cy="143.87625"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs824">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6040">
+      <circle
+         style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.9906;stop-color:#000000"
+         id="circle6042"
+         cx="58.157936"
+         cy="89.774765"
+         r="28.31674" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3936"
+       transform="translate(2.5453625,-1.7157361)">
+      <circle
+         style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.9906;stroke-opacity:1;stop-color:#000000"
+         id="path922-1"
+         cx="124.45464"
+         cy="41.403236"
+         r="28.31674" />
+      <image
+         width="55.165943"
+         height="12.808978"
+         preserveAspectRatio="none"
+         style="stroke-width:2.42365;image-rendering:optimizeQuality"
+         xlink:href="{static}/images/agencies/naco.png"
+         id="image1614"
+         x="96.871674"
+         y="34.998749" />
+      <circle
+         style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.9906;stroke-opacity:1;stop-color:#000000"
+         id="circle1604"
+         cx="124.45464"
+         cy="41.403236"
+         r="28.31674" />
+    </g>
+    <g
+       id="g4046"
+       transform="translate(9.6035014,-49.394963)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.9906;stop-color:#000000"
+         id="circle1808"
+         cx="195.79164"
+         cy="89.958328"
+         r="28.31674" />
+      <image
+         width="50.451103"
+         height="25.730064"
+         preserveAspectRatio="none"
+         style="stroke-width:1.39849;image-rendering:optimizeQuality"
+         xlink:href="{static}/images/agencies/abdessemed.png"
+         id="image1804"
+         x="170.56609"
+         y="77.093292" />
+      <circle
+         style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.9906;stop-color:#000000"
+         id="circle1376"
+         cx="195.79164"
+         cy="89.958328"
+         r="28.31674" />
+    </g>
+    <g
+       id="g6046"
+       transform="translate(-9.1905071,-50.087265)">
+      <image
+         width="55.575787"
+         height="55.575787"
+         preserveAspectRatio="none"
+         style="stroke-width:1.07117;image-rendering:optimizeQuality"
+         xlink:href="{static}/images/communities/huerta_de_tipon.jpg"
+         id="image3760"
+         x="30.429628"
+         y="61.986874"
+         clip-path="url(#clipPath6040)" />
+      <circle
+         style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.9906;stop-color:#000000"
+         id="path922"
+         cx="58.157936"
+         cy="89.774765"
+         r="28.31674" />
+    </g>
+  </g>
+</svg>

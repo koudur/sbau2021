@@ -7,6 +7,9 @@ About
 Contact
 =======
 
+.. raw:: html
+  :file: ../images/contacts.svg
+
 - Naço_
 - `Adel Abdessemed`_
 - `La huerta de tipon`_
@@ -30,17 +33,11 @@ The team
 - | **TAEBIN HAN**
   | *In charge of operations in Korea*
 
-To go further
-=============
+Picture credits
+===============
 
-These platforms are communities of gardeners and seed keepers, sharing
-and swapping peasant seeds.
-
-SEED SAVERS PROGRAMM
-
-CENTER FOR FOOD SAFETY
-
-SEED SAVING NETWORK
+Pictures showcased on this website are © La huerta de tipon, Rebecca
+Fattouh & Mattia Joulia.
 
 .. _Naço: http://naco.net/
 .. _Adel Abdessemed: https://www.adelabdessemed.com/
