@@ -6,7 +6,6 @@
   },
   "name": "sbau2021",
   "version": "1.0.0",
-  "devDependencies": {},
   "main": "postcss.config.js",
   "scripts": {
     "build": "postcss css/tailwind.css -o output/static/css/tailwind.purged.min.css"
