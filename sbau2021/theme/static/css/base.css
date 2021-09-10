@@ -35,6 +35,10 @@ svg {
     @apply w-full h-auto;
 }
 
+.vimeo {
+    @apply my-6;
+}
+
 /* Vimeo embeds */
 
 .vimeo {

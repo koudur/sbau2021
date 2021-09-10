@@ -43,7 +43,10 @@ the modern society. But some men and women like the Tipon community are
 trying to resurrect this tradition, and the culture of seed diversity
 caring.
 
-/// VIDEO ///
+.. vimeo:: 601728733
+  :playsinline: 0
+  :byline: 0
+  :color: ffffff
 
 The genetical diversity of seeds belongs in the number of different
 varieties cultivated and consumed. Today only a few varieties of each
@@ -125,9 +128,12 @@ there was noting but possibilities and infinite soil.
 They made it all with it, from the adobe bricks they use to build their
 house to the substrat they worked to grow their plant.
 
-Everything they needed was in the ground.
+.. vimeo:: 601734342
+  :playsinline: 0
+  :byline: 0
+  :color: ffffff
 
-/// VIDEO ///
+Everything they needed was in the ground.
 
 Exchanges
 =========
@@ -151,14 +157,17 @@ Tipon" community began in 2020, when we got aware of the seed diversity
 issue. Followed the discovery of the community on the internet, and a
 contact.
 
+.. image:: {static}/images/crop_pots.jpg
+  :alt: Some crops in little pots
+
 The community sent us some seeds that we sowed and grown in France. We
 obtained more seeds that we needed and have been able to share them with
 new people, perpetuating the diffusion.
 
-.. image:: {static}/images/crop_pots.jpg
-  :alt: Some crops in little pots
-
-/// VIDEO ///
+.. vimeo:: 601749113
+  :playsinline: 0
+  :byline: 0
+  :color: ffffff
 
 Anybody anywhere in the world can contribute to these networks and help
 to maintain the seed diversity. Here are some of these seed exchange
@@ -189,10 +198,14 @@ Alain's contact
   | Av. Pachacuteq Nro. 525 Wanchaq Cusco
   | PERÚ
 
-/// VIDEO ///
+.. raw:: html
 
-The installation
-================
+  <video autoplay loop>
+    <source src="{static}/videos/timelapse.mp4" type="video/mp4"/>
+  </video>
+
+Artwork
+=======
 
 .. image:: {static}/images/installation.jpg
   :alt: Architectural drawing of the installation
@@ -217,7 +230,10 @@ That is why we inspired ourselves for this artwork, from these
 greenhouses, using the same technique and material as the Arariwakuna
 community.
 
-/// VIDEO ///
+.. vimeo:: 601743861
+  :playsinline: 0
+  :byline: 0
+  :color: ffffff
 
 We live in a world disconnected from reality in the sense that we do not
 even know what our real needs are.
