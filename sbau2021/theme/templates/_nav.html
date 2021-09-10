@@ -1,0 +1,5 @@
+<nav class="flex justify-around max-w-screen-sm mx-auto p-2 text-sm sm:text-base bg-black text-white">
+  {% for page in pages %}
+    <a href="{{ SITEURL }}{{ page.url }}">{{ page.title }}</a>
+  {% endfor %}
+</nav>

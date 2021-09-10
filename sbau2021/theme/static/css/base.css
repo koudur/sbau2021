@@ -36,7 +36,8 @@ html {
 /* Default styles of generic elements */
 
 h2 {
-    @apply text-left text-3xl m-2 mt-12 font-bold;
+    @apply text-left text-3xl m-2 mt-24 font-bold;
+    font-variant: small-caps;
 }
 
 main > .section:first-child h2 {
@@ -48,7 +49,7 @@ h3 {
 }
 
 p, .line-block, .logo {
-    @apply m-6;
+    @apply m-6 text-black;
 }
 
 svg {
