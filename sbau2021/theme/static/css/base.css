@@ -76,12 +76,16 @@ svg {
 
 /* Inline SVG figures */
 
-svg a circle {
-    @apply animate-pulse;
-    transition: fill-opacity 150ms;
+svg a g {
+    filter: brightness(1);
+    transition: filter 150ms ease-in-out;
 }
 
-svg a:hover circle, svg a:focus circle {
+svg.pulse-links a g {
+    @apply animate-pulse;
+}
+
+svg a:hover g, svg a:focus g {
     @apply animate-none;
-    fill-opacity: 0.8 !important;
+    filter: brightness(1.3);
 }

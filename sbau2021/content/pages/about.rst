@@ -10,10 +10,6 @@ Contact
 .. raw:: html
   :file: ../images/contacts.svg
 
-- Naço_
-- `Adel Abdessemed`_
-- `La huerta de tipon`_
-
 The team
 ========
 
@@ -38,7 +34,3 @@ Picture credits
 
 Pictures showcased on this website are © La huerta de tipon, Rebecca
 Fattouh & Mattia Joulia.
-
-.. _Naço: http://naco.net/
-.. _Adel Abdessemed: https://www.adelabdessemed.com/
-.. _La huerta de tipon: https://www.facebook.com/lahuertadetipon/
