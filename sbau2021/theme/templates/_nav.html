@@ -1,5 +1,9 @@
 <nav class="flex justify-around max-w-screen-sm mx-auto p-2 text-sm sm:text-base bg-black text-white">
-  {% for page in pages %}
-    <a href="{{ SITEURL }}{{ page.url }}">{{ page.title }}</a>
+  {% for other_page in pages %}
+    {% for translation in other_page.translations if translation.lang == page.lang %}
+      <a href="{{ SITEURL }}{{ translation.url }}">{{ other_page.title }}</a>
+    {% else %}
+      <a href="{{ SITEURL }}{{ other_page.url }}">{{ other_page.title }}</a>
+    {% endfor %}
   {% endfor %}
 </nav>
