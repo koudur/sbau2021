@@ -27,7 +27,7 @@ Home
 .. _the-seed-keepers:
 
 종자 관리사 
-=========
+===========
 
 .. image:: {static}/images/children.jpg
   :alt: Children with seed keepers
@@ -80,7 +80,7 @@ Home
 .. _the-arariwakuna-project:
 
 아라리와쿠나(ARARIWAKUNA) 프로젝트
-==============================
+==================================
 
 .. image:: {static}/images/valley.jpg
   :alt: Arariwakuna valley
@@ -132,7 +132,7 @@ Home
 .. _exchanges:
 
 교류
-===
+====
 
 .. image:: {static}/images/family_crops.jpg
   :alt: Family taking care of some crops
@@ -175,7 +175,7 @@ T이 플랫폼은 토종 종자를 공유하고 교환하는 정원사와 종자
 직접 종자를 나누는 것입니다.
 
 알랑의 연락처
-^^^^^^^^^^^
+^^^^^^^^^^^^^
 
 .. container:: address
 
@@ -199,7 +199,7 @@ T이 플랫폼은 토종 종자를 공유하고 교환하는 정원사와 종자
 .. _artwork:
 
 삽화
-===
+====
 
 .. image:: {static}/images/installation.jpg
   :alt: Architectural drawing of the installation
