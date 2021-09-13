@@ -28,9 +28,9 @@ erosion.
 Alain interview
 ---------------
 
-This second video is an inteview of Alain Dluglosz from the Tipon
-community, by Naco, where the seed keeper explains his mission and the
-Arikunawa project history.
+inteview of Alain Dlugosz from the Tipon community, by Mattia Joulia.
+In this video the seed keeper explains his mission and the Ararikunawa
+project history.
 
 .. vimeo:: 601718710
   :playsinline: 0
@@ -43,7 +43,7 @@ Marcelo & Mattia interview
 --------------------------
 
 The last video, is an interview of Marcelo & Mattia Joulia, from Naço,
-explaining the whole adventure of the architecture agency and the Tipon
+explaining the whole adventure of the architecture agency with the Tipon
 community, from first contact to the biennal project.
 
 .. vimeo:: 601738801
