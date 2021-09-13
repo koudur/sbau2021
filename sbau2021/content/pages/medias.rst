@@ -18,7 +18,10 @@ Convention*", and "*Tared*", describes the threats seed diversity is
 facing in Peru, and some of the local initiatives to face genetic
 erosion.
 
-///VIDEO///
+.. vimeo:: 603299408
+  :playsinline: 0
+  :byline: 0
+  :color: ffffff
 
 .. _Video 2:
 
