@@ -38,19 +38,22 @@ preservation chain of the seed varieties.
 Their occupation comes from a precolombian tradition, where they had a
 central role in the communities, building an agro-eco-systemic model.
 
-The seed keepers, or Arariguas, do not longer exist as they used to in
-the modern society. But some men and women like the Tipon community are
-trying to resurrect this tradition, and the culture of seed diversity
-caring.
-
 .. vimeo:: 601728733
   :playsinline: 0
   :byline: 0
   :color: ffffff
 
+The seed keepers, or Arariguas, do not longer exist as they used to in
+the modern society. But some men and women like the Tipon community are
+trying to resurrect this tradition, and the culture of seed diversity
+caring.
+
 The genetical diversity of seeds belongs in the number of different
 varieties cultivated and consumed. Today only a few varieties of each
 specie are used, but this has not always been the case.
+
+.. image:: {static}/images/people_hills.jpg
+  :alt: People with hills in the background
 
 Before every place had its endemic plants who were grown and maintained.
 But during the last decades, the agricultural system has changed and
@@ -61,9 +64,6 @@ The limited number of varieties produced are protected by patents, and
 laws that forbid the use of peasant varieties. Due to these
 restrictions, the genetic diversity of seeds has been decreasing, and
 nowadays many peasant varieties have been extinct or are threatened.
-
-.. image:: {static}/images/woman_field.jpg
-  :alt: Woman with a field in the background
 
 Seed preservation is not only taken care by group of people and
 communities like the seeds keepers. Global project that cross border are
@@ -128,12 +128,12 @@ there was noting but possibilities and infinite soil.
 They made it all with it, from the adobe bricks they use to build their
 house to the substrat they worked to grow their plant.
 
+Everything they needed was in the ground.
+
 .. vimeo:: 601734342
   :playsinline: 0
   :byline: 0
   :color: ffffff
-
-Everything they needed was in the ground.
 
 Exchanges
 =========
