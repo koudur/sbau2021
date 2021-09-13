@@ -40,7 +40,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 
 LANGUAGES = {
-    'ko': "Korean",
+    'ko': "한국어",
     'en': "English"
 }
 

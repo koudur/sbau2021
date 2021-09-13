@@ -234,4 +234,4 @@ T이 플랫폼은 토종 종자를 공유하고 교환하는 정원사와 종자
 수 있기를 기대합니다.
 
 .. raw:: html
-  :file: ../figures/change.html
+  :file: ../figures/change-ko.html
