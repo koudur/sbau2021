@@ -91,14 +91,14 @@ The Arariwakuna project
 The Arariwakuna project started a few years ago in Choquepata. This
 project aims to preserve genetic diversity but also the peasant
 education, in decline all over the world. Modern men kind live more and
-more disconnected from the earth and its essentials needs.
+more disconnected from the earth and their essentials needs.
 
 .. image:: {static}/images/crops.jpg
   :alt: Woman and children amongst crops
 
 The project has evolved trhough three differents states. A first one
-were Alain and is family were growing vegetable in choquepata and
-selling them at their restaurant. A second one where they join a native
+were Alain and is family grew vegetable in choquepata and
+sold them in their restaurant. A second one where they join a native
 family from the region and really integrated the community of tipon. The
 space of creation and sharing they created by doing so made them
 realised they had to go further.
@@ -111,14 +111,14 @@ their restaurant where one could eat the community’s grown goods. But
 with the fall of tourism they had to face not only the lost of income
 but also the lose of visibility of their project.
 
-However, during the pandemic while people were struggling to find had
-some food as the markets were closed, they lived in abondance eating and
-sharing the diversity of products they grown them self.
+However, during the pandemic, as people were struggling to find 
+some food as the markets were closed, they lived in abundance eating and
+sharing the diversity of products they had cultivated themselves.
 
 Those events reenforced their will in going forward with the Arariwakuna
 project and they decided to go live in the mountain, and cultivate the
-land there, where its is much harder to grow crops but where their ideal
-could be pushed at maximum capacity.
+land there, where its is much harder to grow crops but where their ideals
+could be pushed to their mamimum capacity.
 
 .. image:: {static}/images/construction_site.jpg
   :alt: Construction site of a soil bricks building
@@ -143,7 +143,7 @@ Exchanges
 .. image:: {static}/images/family_crops.jpg
   :alt: Family taking care of some crops
 
-Two generations ago, seed’s were shared between communities every time
+Two generations ago, seed’s were shared between communities each time
 someone was moving from a place to another. Creating a slow but strong
 network of seed diversity.
 
@@ -155,16 +155,16 @@ around the world between independent gardeners and farmers.
   :alt: Collection of several different seeds of various colors
 
 The connection between the architecture Agency NACO and "la Huerta de
-Tipon" community began in 2020, when we got aware of the seed diversity
+Tipon" community began in 2018, when we became aware of the seed diversity
 issue. Followed the discovery of the community on the internet, and a
-contact.
+direct contact with them.
 
 .. image:: {static}/images/crop_pots.jpg
   :alt: Some crops in little pots
 
-The community sent us some seeds that we sowed and grown in France. We
-obtained more seeds that we needed and have been able to share them with
-new people, perpetuating the diffusion.
+The community sent us some seeds that we sowed and cultivated in France. The 
+year after we collected more seeds that we needed and were able to share 
+them with new people, thus perpetuating the diffusion od the seeds.
 
 .. vimeo:: 601749113
   :playsinline: 0
