@@ -27,7 +27,7 @@ The team
   | *Member of « La Huerta de Tipon » community in Tipon, Peru*
 
 - | **TAEBIN HAN**
-  | *In charge of operations in Korea*
+  | *In charge of operations in Korea & translation*
 
 Picture credits
 ===============
