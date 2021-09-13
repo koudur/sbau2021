@@ -25,7 +25,7 @@ erosion.
 Alain interview
 ---------------
 
-This second video is an inteview of Alain kskcfd from the Tipon
+This second video is an inteview of Alain Dluglosz from the Tipon
 community, by Naco, where the seed keeper explains his mission and the
 Arikunawa project history.
 
