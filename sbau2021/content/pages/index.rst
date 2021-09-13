@@ -35,7 +35,7 @@ The seed keepers
 Seedkeepers are entrusted with the task of preserving the seeds, their
 diversity and the knowledge surrounding them. As seed lifespan does not
 exceed two to ten years, they cultivate them in order to create a living
-preservation chain of the seed varieties.
+preservation chain of seed varieties.
 
 Their occupation comes from a precolombian tradition, where they had a
 central role in the communities, building an agro-eco-systemic model.
@@ -47,28 +47,28 @@ central role in the communities, building an agro-eco-systemic model.
 
 The seed keepers, or Arariguas, do not longer exist as they used to in
 the modern society. But some men and women like the Tipon community are
-trying to resurrect this tradition, and the culture of seed diversity
+trying to resurrect their tradition, and the culture of seed diversity
 caring.
 
-The genetical diversity of seeds belongs in the number of different
+The genetic diversity of seeds belongs in the number of different
 varieties cultivated and consumed. Today only a few varieties of each
 specie are used, but this has not always been the case.
 
 .. image:: {static}/images/people_hills.jpg
   :alt: People with hills in the background
 
-Before every place had its endemic plants who were grown and maintained.
-But during the last decades, the agricultural system has changed and
-turned itsemf into monoculture. This system favors the most productive
-seeds, which are then produced in industrial ways by firms.
+Before each region had its endemic plants who were grown and maintained.
+But in recent decades, the agricultural system has changed and
+turned into monoculture. This system favors the most productive
+seeds, which are then produced industrially ways by companies.
 
 The limited number of varieties produced are protected by patents, and
-laws that forbid the use of peasant varieties. Due to these
-restrictions, the genetic diversity of seeds has been decreasing, and
-nowadays many peasant varieties have been extinct or are threatened.
+laws that prohibit the use of peasant varieties. Due to these
+restrictions, the genetic diversity of seeds has declined, and
+nowadays many peasant varieties have disappeared or are threatened.
 
 Seed preservation is not only taken care by group of people and
-communities like the seeds keepers. Global project that cross border are
+communities like the seeds keepers. Global projects that cross borders are
 also in place in Europe with the Svalbard Globale Frøhvelv or in korea
 with the `Baekdudaegan National Arboretum`_ Seed Vault Centre.
 
@@ -76,11 +76,11 @@ Those two vaults the are open to any country and aim to protect seed
 diversity by freezing them at -20°C. The Korean one even benefits from
 an anti atomic bunker in case of global conflict.
 
-We can see see a lot of similarity in this project but they are mean to
-an end are in reality very different. While one tries to protect the
-seed from extectinction by retiring them from the outside world and
-putting them in a vault, the other is just trying to save the seed
-diversity by encouraging their natural reproduction and sharing them.
+We can see a lot of similarities in these projects, but the way they come 
+to an end are acctually quite different. While one tries to protect the
+seeds from extectinction by retiring them from the world by putting them
+in a vault, the other is just trying to save the seed diversity by
+encouraging their reproduction and diffusion.
 
 The Arariwakuna project
 =======================
