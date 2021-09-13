@@ -12,15 +12,17 @@ Home
 
 *종자 관리사들은 자신들을 종자의 유전적 다양성을 보호하는 수호자라고 칭합니다.*
 
-.. image:: {static}/images/agencies/aplusa.png
-  :alt: A+A agency logo
-  :width: 150
-  :class: logo
+.. container:: logos
 
-.. image:: {static}/images/agencies/naco.png
-  :alt: Naço agency logo
-  :width: 300
-  :class: logo
+  .. image:: {static}/images/agencies/aplusa.png
+    :alt: A+A agency logo
+    :width: 150
+    :class: logo
+
+  .. image:: {static}/images/agencies/naco.png
+    :alt: Naço agency logo
+    :width: 200
+    :class: logo
 
 .. _the-seed-keepers:
 

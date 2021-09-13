@@ -14,15 +14,17 @@ patents to sell agricultural commodities.*
 *The self-named seed keepers have declared themselves guardians of this
 genetic diversity.*
 
-.. image:: {static}/images/agencies/aplusa.png
-  :alt: A+A agency logo
-  :width: 150
-  :class: logo
+.. container:: logos
 
-.. image:: {static}/images/agencies/naco.png
-  :alt: Naço agency logo
-  :width: 300
-  :class: logo
+  .. image:: {static}/images/agencies/aplusa.png
+    :alt: A+A agency logo
+    :width: 150
+    :class: logo
+
+  .. image:: {static}/images/agencies/naco.png
+    :alt: Naço agency logo
+    :width: 200
+    :class: logo
 
 The seed keepers
 ================

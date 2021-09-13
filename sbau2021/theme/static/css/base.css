@@ -27,7 +27,7 @@ h3 {
     @apply text-left text-xl m-1 ml-4 font-bold;
 }
 
-p, .line-block, .logo {
+p, .line-block {
     @apply m-6 text-black;
 }
 
@@ -69,8 +69,12 @@ svg {
 
 /* Logos */
 
+.logos {
+    @apply mt-24;
+}
+
 .logo {
-    @apply mx-auto;
+    @apply mx-auto my-0;
 }
 
 
